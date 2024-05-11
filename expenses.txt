@@ -1,0 +1,4 @@
+travel,980.0
+drink,100.0
+food,650.0
+Current Balance,-1730.0
